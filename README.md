@@ -10,8 +10,9 @@
 
 I make many things, including but not limited to:
 -   Minecraft Bedrock Edition YouTube videos
--   Minecraft Bedrock Edition add-ons
+-   Minecraft Bedrock Edition add-ons and mods
 -   Windows/Linux/macOS apps
+-   iOS/Android apps
 -   Websites
 -   Node.JS programs
 -   NPM node modules
