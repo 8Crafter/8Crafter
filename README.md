@@ -12,6 +12,7 @@
 I make many things, including but not limited to:
 -   Minecraft Bedrock Edition YouTube videos
 -   Minecraft Bedrock Edition add-ons and mods
+-   Minecraft Java Edition mods
 -   Windows/Linux/macOS apps
 -   iOS/Android apps
 -   Websites
